@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a junior majoring in Electrical Engineering at
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sheng-zhao-027719290/)
-- [Twitter](https://twitter.com/Alexzhao)
 - [Personal Website](https://zhaosheng-thu.github.io/)
 
 ## Interests
